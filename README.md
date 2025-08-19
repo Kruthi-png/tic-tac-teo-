@@ -20,7 +20,7 @@ A responsive, accessible, and visually appealing Tic-Tac-Toe game built using **
 
 ## File Structure
 
-## 🖥How to Run
+## How to Run
 
 1. Clone or download the repository.
 2. Open `index.html` in any modern browser.
